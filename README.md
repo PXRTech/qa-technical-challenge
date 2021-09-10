@@ -1,4 +1,4 @@
-# Technical Assignment for Quality Engineers
+# Technical Assignment for QA Engineers
 
 This is the Pxr Tech GmbH technical assignment for Quality Engineers. You'll find two main automation tasks: 1) Webdriver and 2) API functional testing. These two tasks is required as part of this assignment.
 
@@ -14,7 +14,7 @@ The tasks below are simple and therefore we'd like simple solutions where you sh
 - Please use:
   - Python + playwright.dev or Selenium.
 
-## Quality Engineer Assignment
+## QA Engineer Assignment
 
 ## Task 1: Functional E2E Automation
 
